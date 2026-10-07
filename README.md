@@ -1,6 +1,6 @@
 # 3D-Platformer-ml-agents-RL
 
-This project uses Unity Hub with the ML-Agents module to train an agent to beat a simple 3D-platformer game.
+This class project uses Unity Hub with the ML-Agents module to train an agent to beat a simple 3D-platformer game.
 
 ## Project Summary
 
