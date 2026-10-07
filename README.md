@@ -8,7 +8,7 @@ This project implements a **Deep Q-Network (DQN)** agent using the **Unity ML-Ag
 
 ## Prerequisites & Installation
 
-Please refer to the official {Link: Unity Documentation https://unity3d.com }.
+Please refer to the official { Link: Unity Documentation https://unity3d.com }.
 
 ## Getting Started
 
