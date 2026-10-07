@@ -4,7 +4,7 @@ This project uses Unity Hub with the ML-Agents module to train an agent to beat 
 
 ## Prerequisites & Installation
 
-For complete installation instructions, system requirements, and setup steps, please refer to the {Link: Unity Documentation https://unity3d.com}.
+For complete installation instructions, system requirements, and setup steps, please refer to the {Link: Unity Documentation https://unity3d.com }.
 
 ## Getting Started
 
